@@ -2,6 +2,10 @@
 
 Random Shiba is a simple Discord bot that generates random photos of Shiba Inus with the command `!shibe`
 
+## Resources used
+
+- [Shibe.online](https://shibe.online/)
+
 ## Installation
 
 1. Clone the repository.
