@@ -26,3 +26,7 @@ Random Shiba is a simple Discord bot that generates random photos of Shiba Inus 
 4. Create an `.env` file from the existing `.env.example`.
 
 5. Run the bot using `nodemon index.js`.
+
+## Screenshots
+
+<img src="img/shiba.png" alt="alt text" width="500" height="410">
