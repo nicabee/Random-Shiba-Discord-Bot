@@ -20,7 +20,7 @@ client.on("messageCreate", async (msg) => {
   }
 
   if (command === "shibe") {
-    axios
+    await axios
       .get("http://shibe.online/api/shibes?count=1&urls=true&httpsUrls=true")
       .then((resp) => {
         const dogPhoto = resp.data[0]
