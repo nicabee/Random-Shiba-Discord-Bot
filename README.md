@@ -29,4 +29,4 @@ Random Shiba is a simple Discord bot that generates random photos of Shiba Inus 
 
 ## Screenshots
 
-<img src="img/shiba.png" alt="alt text" width="500" height="410">
+<img src="img/shiba.png" alt="alt text" width="500" height="500">
